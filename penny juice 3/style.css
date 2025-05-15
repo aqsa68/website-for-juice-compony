@@ -1,0 +1,81 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    font-size: 20px;
+   
+   
+}
+section.hero{
+    padding: 3rem 10px 0rem 0px;
+    
+}
+section.hero h1{
+    margin-bottom: 2rem;
+    text-align: center;
+}
+section.hero h1 p form{
+    margin-right: 6rem;
+}
+section.hero form{
+    text-align: center;
+    margin-top: 3rem;
+}
+section.hero img{
+    width: 400px;
+    height: 300hv;
+    margin-left: 3rem;
+}
+section.body h2{
+    text-align: center;
+    margin-bottom: 2rem;
+}
+section.body p{
+    
+    padding-left: 3rem;
+    padding-right: 3rem;
+}
+.col:hover{
+    box-decoration-break: clone;
+    
+}
+h5{
+    padding-left: 3rem;
+    margin-left: 3rem;
+    
+}
+
+h6{
+    text-align: center;
+    background-color: yellow;
+    font-size: 100px;
+}
+h1,h2,h3,h4,h5,h6{
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+div.card-group2{ background-color: yellow;
+
+}
+div.footer{
+    background-color: yellow;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+    padding: 0px;
+    margin: 0px;
+
+}
+div.col ul {
+    list-style: none;
+    padding-top: 10px;
+    margin-top: 1rem;
+}
+.roboto-thin {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  .nav-item:hover {
+    background-color: white; /* Darker grey on hover */
+    color: black; /* White text */
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+  }
